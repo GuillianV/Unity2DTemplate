@@ -21,6 +21,6 @@ Pour Utiliser corrèctement le template, déplacez le player  input (actuellemen
 <br>
 Supprimez le ground et les lights par défaut. 
 <br>
-Copiez la paterne de la caméra sur vos prochaines scènes.
+Copiez le paterne de la caméra sur vos prochaines scènes.
 <br>
 Amusez-vous !
